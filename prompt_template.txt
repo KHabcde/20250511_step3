@@ -1,0 +1,9 @@
+以下の自然言語をマクロ構文に変換してください。
+
+# 自然言語の例:
+# 「Google Chromeを開いて、検索バーに'Python'と入力してください。」
+# マクロ構文の例:
+# open application Chrome
+# type text Python
+
+自然言語: 「{text}」
